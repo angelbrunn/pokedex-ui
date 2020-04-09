@@ -1,4 +1,4 @@
-### 1.0.0 (27 March 2020) | R1
+### 1.0.0 (09 Abril 2020) | R1
 
 -   Structure React project
 -   Handle Files Enviroments
