@@ -1,0 +1,13 @@
+{
+    "app_link_home": "Inicio",
+    "header_h1": "POKEDEX",
+    "home_lang_title": "Idiomas disponibles, por el momento !!",
+    "home_lang_en": "Ingles",
+    "home_lang_es": "Español",
+    "home_loading": "Cargando . . .",
+    "listItem_title": "Presionar, mostrar detalle",
+    "modal_title_firts": "El pokemon",
+    "modal_title_second": " tiene las habilidades:",
+    "modal_helper": "Haz clien en cualquier parte para cerrar el modal.",
+    "footer_h4": "ANGEL GUILLERMO PRADO BRUN DESAROLLADOR - POKEDEX"
+}

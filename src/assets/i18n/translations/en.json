@@ -1,0 +1,13 @@
+{
+    "app_link_home": "Home",
+    "header_h1": "POKEDEX",
+    "home_lang_title": "Available languages, at the moment !!",
+    "home_lang_en": "English",
+    "home_lang_es": "Spanish",
+    "home_loading": "Loading . . .",
+    "listItem_title": "Press, show details",
+    "modal_title_firts": "The ",
+    "modal_title_second": " pokemon abilities are:",
+    "modal_helper": "click anywhere on the modal to close.",
+    "footer_h4": "ANGEL GUILLERMO PRADO BRUN DEVELOPER - POKEDEX"
+}

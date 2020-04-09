@@ -1,0 +1,37 @@
+.Home {
+    display: flex;
+    &-Conteiner {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        .Pokemons {
+            margin-top: 30px;
+            &-Loading {
+                font-size: 20px;
+                font-weight: 500;
+                min-width: 100%;
+                min-height: 500px;
+            }
+        }
+        .Paginator {
+            li {
+                font-size: 15px;
+                font-weight: 500;
+                margin: 0 5px;
+                border-radius: 5px;
+            }
+            li.page-item.active {
+                .page-link {
+                    background-color: #5d379c !important;
+                    border-color: #5d379c !important;
+                }
+            }
+            li.page-item:hover {
+                .page-link {
+                    background-color: #5d379c !important;
+                    border-color: #5d379c !important;
+                }
+            }
+        }
+    }
+}

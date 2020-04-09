@@ -1,0 +1,11 @@
+.Header {
+    display: flex;
+    &-Conteiner {
+        background-color: rgb(93, 55, 156);
+        border-bottom: 1px solid rgb(211, 0, 152);
+        color: white;
+        height: 90px;
+        width: 100%;
+        padding: 30px;
+    }
+}
